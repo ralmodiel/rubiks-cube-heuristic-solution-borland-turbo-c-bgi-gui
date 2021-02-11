@@ -7,7 +7,7 @@ The following video includes instructions on running it within Turbo C in Window
 Enjoy !!!
 
 
-[![Video Guide](https://img.youtube.com/vi/X6aSkLtZMeQ/2.jpg)](https://www.youtube.com/watch?v=X6aSkLtZMeQ)
+[![Video Guide](https://github.com/ralmodiel/rubiks-cube-heuristic-solution-borland-turbo-c-bgi-gui/blob/main/YoutubeRubiks.JPG?raw=true)](https://www.youtube.com/watch?v=X6aSkLtZMeQ)
 
 #### Contributors </br>
 Roque Almodiel - Rubik's Cube Rendering</br>
